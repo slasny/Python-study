@@ -9,6 +9,6 @@ random_index = randint(0, len(string) - 1)
 char = string[random_index]
 print(char)
 
-string = "Anather sample string"
+string = "Another sample string"
 char = choice(string)
 print(char)
